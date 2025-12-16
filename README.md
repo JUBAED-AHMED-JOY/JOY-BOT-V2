@@ -17,7 +17,7 @@
 npm install
 ```
 ```txt
-node Joy/catalogs/Joya.js
+node JOY/catalogs/JOYA.js
 ```
 
 Download [JOY-FBSTATE](https://drive.google.com/file/d/1aounl42nAVqPTY13sDH1FRzL9UY29qE2/view?usp=drivesdk)</br>
